@@ -1,0 +1,5 @@
+git remote add origin https://github.com/cleisson1/primeiro-app-.git
+ git branch -M main 
+git push -u origin main
+ git remote  CL Lancheria 
+ git remote cardapio //(*hf=) 
